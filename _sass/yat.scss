@@ -10,10 +10,10 @@ $base-line-height: 1.6 !default;
 
 $spacing-unit:     30px !default;
 
-$text-color:       #454545 !default;
+$text-color:       #005B7F !default;
 $background-color: #fff !default;
 
-$grey-color:       #828282 !default;
+$grey-color:       #A6BBC8 !default;
 $grey-color-light: lighten($grey-color, 40%) !default;
 $grey-color-dark:  darken($grey-color, 25%) !default;
 
@@ -31,7 +31,7 @@ $footer-background-color: darken($theme-color, 5%) !default;
 
 $banner-height: 640px !default;
 $banner-text-color: lighten($white-color, 0%) !default;
-$banner-background: rgba(0,0,0,0.8) !default;
+$banner-background: #179C7D !default;
 
 // Width of the content area
 // $content-width:    920px !default;

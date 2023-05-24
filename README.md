@@ -1,5 +1,4 @@
 ---
-layout: home
 published-on: 1 January 2000
 title: Mat-O-Lab
 author: Thomas Hanke
