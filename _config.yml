@@ -5,8 +5,8 @@
 # in the templates via {{ site.myvariable }}.
 
 # title: Mat-O-Lab
-# email: contact@matolab.org
-# author: Thomas Hanke
+email: contact@matolab.org
+author: Thomas Hanke
 
 # # Copyright setting
 # # You can use any html code, currently below placeholders are available:
@@ -20,7 +20,7 @@
 # #   "Copyright (c) 2017-{currentYear} <a href="https://example.com">{author}</a>"
 # #   "Copyright © 2017-2021 Foobar"
 # #
-# copyright: "Unpublished Work (cleft) 2017-{currentYear} {author}"
+copyright: "Unpublished Work (cleft) 2017-{currentYear} {author}"
 
 # description: >- # this means to ignore newlines until "baseurl:"
 #   The Materials Open Laboratory, short Mat-O-Lab, is a Joint Venture of Fraunhofer Group Materials 

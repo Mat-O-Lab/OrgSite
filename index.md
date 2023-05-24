@@ -6,7 +6,8 @@ layout: home
 title: Mat-O-Lab
 ---
 
-# Mat-O-Lab
+# Home
+
 The Materials Open Laboratory, short Mat-O-Lab, is a Joint Venture of Fraunhofer Group Materials and The Bundesanstalt für Materialforschung und -prüfung (BAM). Our shared Vision is to describes material science human and machine readable, proving the use from laboratory to product.
 
 ## Introduction
