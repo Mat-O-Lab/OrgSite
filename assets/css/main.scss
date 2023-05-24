@@ -21,27 +21,28 @@ $theme-secondary: map-get($theme-colors, "fhggray");
 $theme-tertiary: map-get($theme-colors, "fhggreen");
 $theme-highlight: map-get($theme-colors, "fhgorange");
 
-@if map-has-key($theme-primary, $theme-name) {
-  $theme-primary: map-get($theme-colors, $theme-name);
-} @else if str-index($theme-name, "#") == 1 {
+
+@if map-has-key($theme-colors, $theme_primary) {
+  $theme-primary: map-get($theme-colors, $theme_primary);
+} @else if str-index($theme_primary, "#") == 1 {
   $theme-primary: {{ site.theme_primary | default: '#ffffff' }};
 }
 
-@if map-has-key($theme-secondary, $theme-name) {
-  $theme-secondary: map-get($theme-colors, $theme-name);
-} @else if str-index($theme-name, "#") == 1 {
+@if map-has-key($theme-colors, $theme-secondary) {
+  $theme-secondary: map-get($theme-colors, $theme-secondary);
+} @else if str-index($theme-secondary, "#") == 1 {
   $theme-secondary: {{ site.theme_secondary | default: '#ffffff' }};
 }
 
-@if map-has-key($theme-tertiary, $theme-name) {
-  $theme-tertiary: map-get($theme-colors, $theme-name);
-} @else if str-index($theme-name, "#") == 1 {
+@if map-has-key($theme-colors, $theme-tertiary) {
+  $theme-tertiary: map-get($theme-colors, $theme-tertiary);
+} @else if str-index($theme-tertiary, "#") == 1 {
   $theme-tertiary: {{ site.theme_tertiary | default: '#ffffff' }};
 }
 
-@if map-has-key($theme-highlight, $theme-name) {
-  $theme-highlight: map-get($theme-colors, $theme-name);
-} @else if str-index($theme-name, "#") == 1 {
+@if map-has-key($theme-colors, $theme-highlight) {
+  $theme-highlight: map-get($theme-colors, $theme-highlight);
+} @else if str-index($theme-highlight, "#") == 1 {
   $theme-highlight: {{ site.theme_highlight | default: '#ffffff' }};
 }
 
