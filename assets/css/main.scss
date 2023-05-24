@@ -4,11 +4,11 @@
 
 // Default theme colors
 $theme-colors: (
-  "fhggray": #ff5100,
-  "fhgblue": #005B7F,
-  "fhgorange": #F58220,
-  "fhggreen": #179C7D,
-  "fhglime": #B2D235,
+  "fhggray": #a6bbc8,
+  "fhgblue": #005b7f,
+  "fhgorange": #f58220,
+  "fhggreen": #179C7d,
+  "fhglime": #b2d235,
 );
 
 $theme-primary: "{{ site.theme_primary }}";
@@ -20,7 +20,6 @@ $theme-primary: map-get($theme-colors, "fhgblue");
 $theme-secondary: map-get($theme-colors, "fhggray");
 $theme-tertiary: map-get($theme-colors, "fhggreen");
 $theme-highlight: map-get($theme-colors, "fhgorange");
-
 
 @if map-has-key($theme-colors, $theme_primary) {
   $theme-primary: map-get($theme-colors, $theme_primary);
