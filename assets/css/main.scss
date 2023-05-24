@@ -3,12 +3,13 @@
 ---
 
 // Default theme colors
+;
 $theme-colors: (
-  "fhggray": #a6bbc8,
-  "fhgblue": #005b7f,
-  "fhgorange": #f58220,
-  "fhggreen": #179C7d,
-  "fhglime": #b2d235,
+  "fhggray":    #a6bbc8,
+  "fhgblue":    #005b7f,
+  "fhgorange":  #f58220,
+  "fhggreen":   #179C7d,
+  "fhglime":    #b2d235,
 );
 
 $theme-primary: "{{ site.theme_primary }}";

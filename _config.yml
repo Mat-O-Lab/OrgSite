@@ -63,10 +63,10 @@ copyright: "Unpublished Work (cleft) 2017-{currentYear} {author}"
 # fhglime: #B2D235
 
 # Default theme colors as below:
-theme_primary: "fhgblue"
-theme_secondary: "fhggray"
-theme_tertiary: "fhggreen"
-theme_highlight: "fhgorange"
+theme_primary: fhgblue
+theme_secondary: fhggray
+theme_tertiary: fhggreen
+theme_highlight: fhgorange
 
 # Night/Dark mode
 # Default mode is "auto", "auto" is for auto nightshift
