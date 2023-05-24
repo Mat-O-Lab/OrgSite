@@ -201,7 +201,7 @@ html {
   }
 
   a {
-    $a-color: $brand-color;
+    $a-color: $theme-highlight;
     color: $a-color;
 
     &:hover {
@@ -292,7 +292,7 @@ html {
         margin-left: 8px;
         margin-top: 3px;
         padding: 0px 3px;
-        background-color: $brand-color;
+        background-color: $theme-highlight;
         color: #fff;
         font-size: 10px;
         font-weight: 600;
@@ -481,7 +481,7 @@ html {
           margin-left: 8px;
           margin-top: 3px;
           padding: 0px 3px;
-          background-color: $brand-color;
+          background-color: $theme-highlight;
           color: #fff;
           font-size: 10px;
           font-weight: 600;
@@ -757,7 +757,7 @@ html {
       margin-left: 8px;
       margin-top: 3px;
       padding: 0px 3px;
-      background-color: $brand-color;
+      background-color: $theme-highlight;
       color: #fff;
       font-size: 10px;
       font-weight: 600;

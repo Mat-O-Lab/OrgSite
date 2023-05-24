@@ -17,9 +17,9 @@ $theme-tertiary: "{{ site.theme_tertiary }}";
 $theme-highlight: "{{ site.theme_highlight }}";
 
 $theme-primary: map-get($theme-colors, "fhgblue");
-$theme-secondary: map-get($brand-colors, "fhggray");
+$theme-secondary: map-get($theme-colors, "fhggray");
 $theme-tertiary: map-get($theme-colors, "fhggreen");
-$theme-highlight: map-get($brand-colors, "fhgorange");
+$theme-highlight: map-get($theme-colors, "fhgorange");
 
 @if map-has-key($theme-primary, $theme-name) {
   $theme-primary: map-get($theme-colors, $theme-name);
