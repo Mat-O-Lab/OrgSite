@@ -56,11 +56,11 @@ copyright: "Unpublished Work (cleft) 2017-{currentYear} {author}"
 
 
 # Default brand colors as below:
-fhggray: #A6BBC8
-fhgblue: #005B7F
-fhgorange: #F58220
-fhggreen: #179C7D
-fhglime: #B2D235
+# fhggray: #A6BBC8
+# fhgblue: #005B7F
+# fhgorange: #F58220
+# fhggreen: #179C7D
+# fhglime: #B2D235
 
 # Default theme colors as below:
 theme_primary: fhgblue

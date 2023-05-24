@@ -1,0 +1,52 @@
+---
+# Only the main Sass file needs front matter (the dashes are enough)
+---
+
+// Default theme colors
+$theme-colors: (
+  "fhggray": #A6BBC8,
+  "fhgblue": #005B7F,
+  "fhgorange": #F58220,
+  "fhggreen": #179C7D,
+  "fhglime": #B2D235,
+);
+
+$theme-primary: "{{ site.theme_primary }}";
+$theme-secondary: "{{ site.theme_secondary }}";
+$theme-tertiary: "{{ site.theme_tertiary }}";
+$theme-highlight: "{{ site.theme_highlight }}";
+
+$brand-name: "{{ site.brand_color }}";
+$theme-primary: map-get($theme-colors, "fhgblue");
+$theme-secondary: map-get($brand-colors, "fhggray");
+$theme-tertiary: map-get($theme-colors, "fhggreen");
+$theme-highlight: map-get($brand-colors, "fhgorange");
+
+@if map-has-key($theme-primary, $theme-name) {
+  $theme-primary: map-get($theme-colors, $theme-name);
+} @else if str-index($theme-name, "#") == 1 {
+  $theme-primary: {{ site.theme_primary | default: '#ffffff' }};
+}
+
+@if map-has-key($theme-secondary, $theme-name) {
+  $theme-secondary: map-get($theme-colors, $theme-name);
+} @else if str-index($theme-name, "#") == 1 {
+  $theme-secondary: {{ site.theme_secondary | default: '#ffffff' }};
+}
+
+@if map-has-key($theme-tertiary, $theme-name) {
+  $theme-tertiary: map-get($theme-colors, $theme-name);
+} @else if str-index($theme-name, "#") == 1 {
+  $theme-tertiary: {{ site.theme_tertiary | default: '#ffffff' }};
+}
+
+@if map-has-key($theme-highlight, $theme-name) {
+  $theme-highlight: map-get($theme-colors, $theme-name);
+} @else if str-index($theme-name, "#") == 1 {
+  $theme-highlight: {{ site.theme_highlight | default: '#ffffff' }};
+}
+
+
+$content-width: {{ site.content_width | default: '920px' }};
+
+@import "yat";
