@@ -27,14 +27,14 @@ description: >- # this means to ignore newlines until "baseurl:"
   and The Bundesanstalt für Materialforschung und -prüfung (BAM). 
   Our shared Vision is to describes material science human and machine readable, proving the use from laboratory to product.
 
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. https://example.com
-favicon: "" # the favicon for your site
+# baseurl: "" # the subpath of your site, e.g. /blog
+# url: "" # the base hostname & protocol for your site, e.g. https://example.com
+# favicon: "" # the favicon for your site
 
 # Yat date format
 # refer to https://shopify.github.io/liquid/filters/date/ if you want to customize this
-yat:
-  date_format: "%b %d, %Y"
+# yat:
+#   date_format: "%b %d, %Y"
 
 # If you want more debug log, you can set true
 # debug: false
