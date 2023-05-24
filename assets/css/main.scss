@@ -22,29 +22,29 @@ $theme-secondary: map-get($theme-colors, "fhggray");
 $theme-tertiary: map-get($theme-colors, "fhggreen");
 $theme-highlight: map-get($theme-colors, "fhgorange");
 
-@if map-has-key($theme-colors, $theme_primary) {
-  $theme-primary: map-get($theme-colors, $theme_primary);
-} @else if str-index($theme_primary, "#") == 1 {
-  $theme-primary: {{ site.theme_primary | default: '#ffffff' }};
-}
+// @if map-has-key($theme-colors, $theme_primary) {
+//   $theme-primary: map-get($theme-colors, $theme_primary);
+// } @else if str-index($theme_primary, "#") == 1 {
+//   $theme-primary: {{ site.theme_primary | default: '#ffffff' }};
+// }
 
-@if map-has-key($theme-colors, $theme-secondary) {
-  $theme-secondary: map-get($theme-colors, $theme-secondary);
-} @else if str-index($theme-secondary, "#") == 1 {
-  $theme-secondary: {{ site.theme_secondary | default: '#ffffff' }};
-}
+// @if map-has-key($theme-colors, $theme-secondary) {
+//   $theme-secondary: map-get($theme-colors, $theme-secondary);
+// } @else if str-index($theme-secondary, "#") == 1 {
+//   $theme-secondary: {{ site.theme_secondary | default: '#ffffff' }};
+// }
 
-@if map-has-key($theme-colors, $theme-tertiary) {
-  $theme-tertiary: map-get($theme-colors, $theme-tertiary);
-} @else if str-index($theme-tertiary, "#") == 1 {
-  $theme-tertiary: {{ site.theme_tertiary | default: '#ffffff' }};
-}
+// @if map-has-key($theme-colors, $theme-tertiary) {
+//   $theme-tertiary: map-get($theme-colors, $theme-tertiary);
+// } @else if str-index($theme-tertiary, "#") == 1 {
+//   $theme-tertiary: {{ site.theme_tertiary | default: '#ffffff' }};
+// }
 
-@if map-has-key($theme-colors, $theme-highlight) {
-  $theme-highlight: map-get($theme-colors, $theme-highlight);
-} @else if str-index($theme-highlight, "#") == 1 {
-  $theme-highlight: {{ site.theme_highlight | default: '#ffffff' }};
-}
+// @if map-has-key($theme-colors, $theme-highlight) {
+//   $theme-highlight: map-get($theme-colors, $theme-highlight);
+// } @else if str-index($theme-highlight, "#") == 1 {
+//   $theme-highlight: {{ site.theme_highlight | default: '#ffffff' }};
+// }
 
 
 $content-width: {{ site.content_width | default: '920px' }};
