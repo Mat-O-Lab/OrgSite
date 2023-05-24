@@ -4,28 +4,28 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Mat-O-Lab
-email: contact@matolab.org
-author: Thomas Hanke
+# title: Mat-O-Lab
+# email: contact@matolab.org
+# author: Thomas Hanke
 
-# Copyright setting
-# You can use any html code, currently below placeholders are available:
-# * current year: {currentYear}
-# * author: {author} (Value is the same as site.author)
-# * copyright: (c) - ©
-# * copyleft: (cleft)
-# * sound recording copyright: (p) - ℗
-#
-# For example:
-#   "Copyright (c) 2017-{currentYear} <a href="https://example.com">{author}</a>"
-#   "Copyright © 2017-2021 Foobar"
-#
-copyright: "Unpublished Work (cleft) 2017-{currentYear} {author}"
+# # Copyright setting
+# # You can use any html code, currently below placeholders are available:
+# # * current year: {currentYear}
+# # * author: {author} (Value is the same as site.author)
+# # * copyright: (c) - ©
+# # * copyleft: (cleft)
+# # * sound recording copyright: (p) - ℗
+# #
+# # For example:
+# #   "Copyright (c) 2017-{currentYear} <a href="https://example.com">{author}</a>"
+# #   "Copyright © 2017-2021 Foobar"
+# #
+# copyright: "Unpublished Work (cleft) 2017-{currentYear} {author}"
 
-description: >- # this means to ignore newlines until "baseurl:"
-  The Materials Open Laboratory, short Mat-O-Lab, is a Joint Venture of Fraunhofer Group Materials 
-  and The Bundesanstalt für Materialforschung und -prüfung (BAM). 
-  Our shared Vision is to describes material science human and machine readable, proving the use from laboratory to product.
+# description: >- # this means to ignore newlines until "baseurl:"
+#   The Materials Open Laboratory, short Mat-O-Lab, is a Joint Venture of Fraunhofer Group Materials 
+#   and The Bundesanstalt für Materialforschung und -prüfung (BAM). 
+#   Our shared Vision is to describes material science human and machine readable, proving the use from laboratory to product.
 
 # baseurl: "" # the subpath of your site, e.g. /blog
 # url: "" # the base hostname & protocol for your site, e.g. https://example.com
