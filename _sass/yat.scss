@@ -30,7 +30,7 @@ $footer-text-color: $grey-color-light !default;
 $footer-background-color: darken($theme_primary, 5%) !default;
 
 $banner-height: 640px !default;
-$banner-text-color: background-color !default;
+$banner-text-color: $background-color !default;
 $banner-background: $theme_tertiary !default;
 
 // Width of the content area
