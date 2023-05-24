@@ -4,7 +4,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-# title: Mat-O-Lab
+title: Mat-O-Lab
 email: contact@matolab.org
 author: Thomas Hanke
 
