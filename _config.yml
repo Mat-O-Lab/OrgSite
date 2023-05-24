@@ -8,12 +8,9 @@ title: Mat-O-Lab
 email: contact@matolab.org
 author: Thomas Hanke
 
-description: >- 
-  The Materials Open Laboratory, short Mat-O-Lab, is a Joint Venture of Fraunhofer Group Materials 
+description: "The Materials Open Laboratory, short Mat-O-Lab, is a Joint Venture of Fraunhofer Group Materials 
   and The Bundesanstalt für Materialforschung und -prüfung (BAM). 
-  Our shared Vision is to describes material science human and machine readable, proving the use from laboratory to product.
-
-copyright: "Unpublished Work (cleft) 2017-{currentYear} {author}"
+  Our shared Vision is to describes material science human and machine readable, proving the use from laboratory to product."
 
 # # Copyright setting
 # # You can use any html code, currently below placeholders are available:
@@ -27,6 +24,7 @@ copyright: "Unpublished Work (cleft) 2017-{currentYear} {author}"
 # #   "Copyright (c) 2017-{currentYear} <a href="https://example.com">{author}</a>"
 # #   "Copyright © 2017-2021 Foobar"
 # #
+copyright: "Unpublished Work (cleft) 2017-{currentYear} {author}"
 
 
 # baseurl: "" # the subpath of your site, e.g. /blog
