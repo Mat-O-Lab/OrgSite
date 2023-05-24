@@ -1,3 +1,10 @@
+---
+layout: home
+published-on: 1 January 2000
+title: Mat-O-Lab
+author: Thomas Hanke
+---
+
 # Mat-O-Lab
 
 The Materials Open Laboratory, short Mat-O-Lab, is a Joint Venture of Fraunhofer Group Materials and The Bundesanstalt für Materialforschung und -prüfung (BAM). Our shared Vision is to describes material science human and machine readable, proving the use from laboratory to product.
