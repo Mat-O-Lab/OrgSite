@@ -33,13 +33,14 @@ Use only the provided website down browse further!"
 | CSVToCSVW v1.0.3 | 2022-10-11 | - | https://github.com/Mat-O-Lab/CSVtoCSVW/releases/tag/v1.0.3 | "Moving Forward with Precision" | Tools | CSVW, CSV, Metadata |
 | CSVToCSVW v1.0.2 | 2022-10-04 | - | https://github.com/Mat-O-Lab/CSVtoCSVW/releases/tag/v1.0.2 | "Subtle Yet Impactful Changes" | Tools | CSVW, CSV, Metadata |
 | CSVToCSVW v1.0.1 | 2022-09-27 | - | https://github.com/Mat-O-Lab/CSVtoCSVW/releases/tag/v1.0.1 | "Expanding on the Basics" | Tools | CSVW, CSV, Metadata |
-| CSVToCSVW v1.0.0 | 2022-09-20 | - | https://github.com/Mat-O-Lab/CSVtoCSVW/releases/tag/v1.0.0 | "The Beginning of Something Great" | Tools | CSVW, CSV, Metadata |
+| CSVToCSVW v1.0.0 | 2022-09-20 | Uses w3c vocab csvw and qudt units to describe structure and data in csv. | https://github.com/Mat-O-Lab/CSVtoCSVW/releases/tag/v1.0.0 | CSVtoCSVW: describe csv files with semantics  | Tools | CSVW, CSV, Metadata |
 | MapToMethod v1.0.6 | 2023-03-24 | - | https://github.com/Mat-O-Lab/MapToMethod/releases/tag/v1.0.6 | "Furthering Excellence" | Tools | CSVW, CSV, Metadata |
 | MapToMethod v1.05 | 2023-03-17 | - | https://github.com/Mat-O-Lab/MapToMethod/releases/tag/v1.05 | "Pursuing Perfection" | Tools | Mapping, Graph |
 | MapToMethod v1.04 | 2023-03-03 | 9 make more generic | https://github.com/Mat-O-Lab/MapToMethod/releases/tag/v1.04 | "Embracing Genericity" | Tools | Mapping, Graph |
 | MapToMethod v1.0.3 | 2023-02-02 | - | https://github.com/Mat-O-Lab/MapToMethod/releases/tag/v1.0.3 | "Taking the Next Step" | Tools | Mapping, Graph |
 | MapToMethod fixed reading of urls | 2022-11-25 | Update Dockerfile | https://github.com/Mat-O-Lab/MapToMethod/releases/tag/v1.0.2 | "URL Reading, Fixed and Smooth" | Tools | Mapping, Graph |
 | MapToMethod v1.0.1 | 2022-07-29 | now generates iri for method entities | https://github.com/Mat-O-Lab/MapToMethod/releases/tag/v1.0.1 | "Enhancing Method Entities: IRI Generation" | Tools | Mapping, Graph |
+| MapToMethod first release | 2022-06-21 | first woking version | https://github.com/Mat-O-Lab/MapToMethod/releases/tag/v1.0.1 | "Mapping data to method graphs: creation of YARRML Mappings" | Tools | Mapping, Graph |
 | MSEO v0.4 | 2023-03-22 | Migrated to iof-core; removed some BWMD entities and replaces BWMD iris with spelling names; added w3c oa Annotation as bearing artifact | https://github.com/Mat-O-Lab/MSEO/compare/v0.3...v0.4 | "Migration and Annotation: A New Chapter" | Ontologies |  Material Science, Knowledge |
 | MSEO v0.3 | 2022-07-20 | Merge pull request #3 from Mat-O-Lab/2-clear-up-inconsistencies; now works with FaCT++ 1.6.5 | https://github.com/Mat-O-Lab/MSEO/compare/v0.24...v0.3 | "Towards a More Consistent MSEO" | Ontologies | Material Science, Knowledge |
 | MSEO v0.24 | 2022-03-11 | Updated Documentation | https://github.com/Mat-O-Lab/MSEO/compare/v0.23...v0.24 | "Documentation: Now Crisper and Clearer" | Ontologies | Material Science, Knowledge |
