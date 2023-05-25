@@ -1,7 +1,7 @@
 ---
 layout: post
 title: RDFConverter v.1.0.1
-subtitle: Mysterious Improvements: What's Hidden?
+subtitle: Mysterious Improvements - What's Hidden?
 categories: Tools
 tags: ['RDF', 'Transformation']
 ---

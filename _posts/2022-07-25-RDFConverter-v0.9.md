@@ -1,7 +1,7 @@
 ---
 layout: post
 title: RDFConverter v0.9
-subtitle: The First Step: We're Up and Running!
+subtitle: The First Step - We're Up and Running!
 categories: Tools
 tags: ['RDF', 'Transformation']
 ---

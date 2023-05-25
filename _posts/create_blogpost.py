@@ -15,8 +15,8 @@ for _, row in df.iterrows():
     with open(file_path, 'w') as f:
         f.write(f"""---
 layout: post
-title: {row.title.strip()}
-subtitle: {row.subtitle.strip().replace('"', '')}
+title: {row.title.strip().replace(':',' -')}
+subtitle: {row.subtitle.strip().replace('"', '').replace(':',' -')}
 categories: {row.categories.strip()}
 tags: {row.tags.strip().split(', ')}
 ---

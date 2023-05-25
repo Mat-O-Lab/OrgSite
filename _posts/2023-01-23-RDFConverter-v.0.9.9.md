@@ -1,7 +1,7 @@
 ---
 layout: post
 title: RDFConverter v.0.9.9
-subtitle: Proxy Battle: We've Got Your Back!
+subtitle: Proxy Battle - We've Got Your Back!
 categories: Tools
 tags: ['RDF', 'Transformation']
 ---
