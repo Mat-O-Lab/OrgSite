@@ -17,7 +17,7 @@ for _, row in df.iterrows():
 layout: post
 title: {row.title.strip().replace(':',' -')}
 subtitle: {row.subtitle.strip().replace('"', '').replace(':',' -')}
-categories: {row.categories.strip()}
+categories: {row.categories.strip().split(', ')}
 tags: {row.tags.strip().split(', ')}
 ---
 

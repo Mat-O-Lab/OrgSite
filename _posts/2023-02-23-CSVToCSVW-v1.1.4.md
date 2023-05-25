@@ -2,7 +2,7 @@
 layout: post
 title: CSVToCSVW v1.1.4
 subtitle: Performance Upgrades Applied
-categories: Tools
+categories: ['Tools']
 tags: ['CSVW', 'CSV', 'Metadata']
 ---
 

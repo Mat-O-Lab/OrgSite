@@ -2,7 +2,7 @@
 layout: post
 title: CSVToCSVW v1.1.7
 subtitle: Refined and Enhanced
-categories: Tools
+categories: ['Tools']
 tags: ['CSVW', 'CSV', 'Metadata']
 ---
 

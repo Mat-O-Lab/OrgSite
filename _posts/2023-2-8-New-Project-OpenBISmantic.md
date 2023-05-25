@@ -2,7 +2,7 @@
 layout: post
 title: New Project OpenBISmantic
 subtitle: Semantic Data from OpenBIS!
-categories: Tools
+categories: ['Tools']
 tags: ['RDF', 'Transformation']
 ---
 

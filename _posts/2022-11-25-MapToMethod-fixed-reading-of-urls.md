@@ -2,7 +2,7 @@
 layout: post
 title: MapToMethod fixed reading of urls
 subtitle: URL Reading, Fixed and Smooth
-categories: Tools
+categories: ['Tools']
 tags: ['Mapping', 'Graph']
 ---
 

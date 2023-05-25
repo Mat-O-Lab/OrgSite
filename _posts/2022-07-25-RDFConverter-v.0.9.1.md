@@ -2,7 +2,7 @@
 layout: post
 title: RDFConverter v.0.9.1
 subtitle: Hot Fixes - Keeping It Cool!
-categories: Tools
+categories: ['Tools']
 tags: ['RDF', 'Transformation']
 ---
 

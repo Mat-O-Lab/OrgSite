@@ -2,7 +2,7 @@
 layout: post
 title: CSVToCSVW v1.1.2
 subtitle: Table Data Inclusion Enabled
-categories: Tools
+categories: ['Tools']
 tags: ['CSVW', 'CSV', 'Metadata']
 ---
 

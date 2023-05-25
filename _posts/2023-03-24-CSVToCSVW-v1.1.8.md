@@ -2,7 +2,7 @@
 layout: post
 title: CSVToCSVW v1.1.8
 subtitle: Under the Hood Improvements
-categories: Tools
+categories: ['Tools']
 tags: ['CSVW', 'CSV', 'Metadata']
 ---
 

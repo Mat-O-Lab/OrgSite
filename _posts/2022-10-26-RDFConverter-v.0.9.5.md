@@ -2,7 +2,7 @@
 layout: post
 title: RDFConverter v.0.9.5
 subtitle: Alpha Ascension - The Journey Begins!
-categories: Tools
+categories: ['Tools']
 tags: ['RDF', 'Transformation']
 ---
 

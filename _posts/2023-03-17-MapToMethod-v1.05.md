@@ -2,7 +2,7 @@
 layout: post
 title: MapToMethod v1.05
 subtitle: Pursuing Perfection
-categories: Tools
+categories: ['Tools']
 tags: ['Mapping', 'Graph']
 ---
 

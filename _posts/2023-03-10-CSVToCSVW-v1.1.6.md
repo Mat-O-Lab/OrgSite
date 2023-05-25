@@ -2,7 +2,7 @@
 layout: post
 title: CSVToCSVW v1.1.6
 subtitle: Driving Progress Forward
-categories: Tools
+categories: ['Tools']
 tags: ['CSVW', 'CSV', 'Metadata']
 ---
 

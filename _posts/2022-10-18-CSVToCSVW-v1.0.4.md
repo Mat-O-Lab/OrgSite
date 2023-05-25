@@ -2,7 +2,7 @@
 layout: post
 title: CSVToCSVW v1.0.4
 subtitle: Quiet Refinements
-categories: Tools
+categories: ['Tools']
 tags: ['CSVW', 'CSV', 'Metadata']
 ---
 

@@ -2,7 +2,7 @@
 layout: post
 title: CSVToCSVW v1.1.3
 subtitle: Automating API Documentation
-categories: Tools
+categories: ['Tools']
 tags: ['CSVW', 'CSV', 'Metadata']
 ---
 

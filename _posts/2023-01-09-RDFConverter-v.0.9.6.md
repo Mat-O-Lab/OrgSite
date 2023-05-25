@@ -2,7 +2,7 @@
 layout: post
 title: RDFConverter v.0.9.6
 subtitle: Squashed Bugs - Clean and Smooth!
-categories: Tools
+categories: ['Tools']
 tags: ['RDF', 'Transformation']
 ---
 

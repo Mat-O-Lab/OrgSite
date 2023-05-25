@@ -2,7 +2,7 @@
 layout: post
 title: RDFConverter v.1.0.0
 subtitle: Perfect Ten - The Magic of 1.0.0!
-categories: Tools
+categories: ['Tools']
 tags: ['RDF', 'Transformation']
 ---
 

@@ -2,7 +2,7 @@
 layout: post
 title: RDFConverter v.0.9.7
 subtitle: Ports in a Storm - Stability Assured!
-categories: Tools
+categories: ['Tools']
 tags: ['RDF', 'Transformation']
 ---
 

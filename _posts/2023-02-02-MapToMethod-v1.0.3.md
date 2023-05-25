@@ -2,7 +2,7 @@
 layout: post
 title: MapToMethod v1.0.3
 subtitle: Taking the Next Step
-categories: Tools
+categories: ['Tools']
 tags: ['Mapping', 'Graph']
 ---
 

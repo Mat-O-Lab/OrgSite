@@ -2,7 +2,7 @@
 layout: post
 title: MapToMethod v1.04
 subtitle: Embracing Genericity
-categories: Tools
+categories: ['Tools']
 tags: ['Mapping', 'Graph']
 ---
 

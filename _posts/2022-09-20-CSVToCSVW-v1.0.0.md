@@ -2,7 +2,7 @@
 layout: post
 title: CSVToCSVW v1.0.0
 subtitle: The Beginning of Something Great
-categories: Tools
+categories: ['Tools']
 tags: ['CSVW', 'CSV', 'Metadata']
 ---
 

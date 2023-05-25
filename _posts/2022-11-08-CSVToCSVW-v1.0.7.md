@@ -2,7 +2,7 @@
 layout: post
 title: CSVToCSVW v1.0.7
 subtitle: Steady As We Go
-categories: Tools
+categories: ['Tools']
 tags: ['CSVW', 'CSV', 'Metadata']
 ---
 

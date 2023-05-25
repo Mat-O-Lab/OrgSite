@@ -2,7 +2,7 @@
 layout: post
 title: RDFConverter v.0.9.8
 subtitle: Eight is Great - Moving Forward!
-categories: Tools
+categories: ['Tools']
 tags: ['RDF', 'Transformation']
 ---
 

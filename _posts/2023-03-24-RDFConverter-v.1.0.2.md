@@ -2,7 +2,7 @@
 layout: post
 title: RDFConverter v.1.0.2
 subtitle: Migration and Duplication - A New Frontier!
-categories: Tools
+categories: ['Tools']
 tags: ['RDF', 'Transformation']
 ---
 

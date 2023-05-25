@@ -2,7 +2,7 @@
 layout: post
 title: CSVToCSVW v1.0.6
 subtitle: Silent But Significant Updates
-categories: Tools
+categories: ['Tools']
 tags: ['CSVW', 'CSV', 'Metadata']
 ---
 

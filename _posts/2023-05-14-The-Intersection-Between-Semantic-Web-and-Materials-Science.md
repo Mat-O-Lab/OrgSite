@@ -2,7 +2,7 @@
 layout: post
 title: The Intersection Between Semantic Web and Materials Science
 subtitle: Harnessing Semantic Web for Materials Science
-categories: Materials Science and Engineering, Semantic Web Technologies
+categories: ['Materials Science and Engineering', 'Semantic Web Technologies']
 tags: ['linked open data', 'materials science', 'ontology', 'semantic web']
 ---
 

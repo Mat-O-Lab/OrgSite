@@ -2,7 +2,7 @@
 layout: post
 title: MapToMethod v1.0.6
 subtitle: Furthering Excellence
-categories: Tools
+categories: ['Tools']
 tags: ['CSVW', 'CSV', 'Metadata']
 ---
 

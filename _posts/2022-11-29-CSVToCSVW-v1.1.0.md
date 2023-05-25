@@ -2,7 +2,7 @@
 layout: post
 title: CSVToCSVW v1.1.0
 subtitle: Taking it to the Next Level
-categories: Tools
+categories: ['Tools']
 tags: ['CSVW', 'CSV', 'Metadata']
 ---
 

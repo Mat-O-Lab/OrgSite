@@ -2,7 +2,7 @@
 layout: post
 title: CSVtoCSVW v1.1.9
 subtitle: Revamping and Slimming Down
-categories: Tools
+categories: ['Tools']
 tags: ['CSVW', 'CSV', 'Metadata']
 ---
 

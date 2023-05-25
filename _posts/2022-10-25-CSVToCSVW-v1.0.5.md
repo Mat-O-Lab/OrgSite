@@ -2,7 +2,7 @@
 layout: post
 title: CSVToCSVW v1.0.5
 subtitle: Maintaining Momentum
-categories: Tools
+categories: ['Tools']
 tags: ['CSVW', 'CSV', 'Metadata']
 ---
 

@@ -2,7 +2,7 @@
 layout: post
 title: Digitalisierung der Materialien in PMD & Mat-o-Lab-Eine normkonforme Anwendungsontologie des Zugversuchs
 subtitle: Ontologies for Digitizing Materials and Processes
-categories: Materials Science, Ontologies, Digitalization
+categories: ['Materials Science', 'Ontologies', 'Digitalization']
 tags: ['Digitization', 'Materials', 'Ontologies']
 ---
 
