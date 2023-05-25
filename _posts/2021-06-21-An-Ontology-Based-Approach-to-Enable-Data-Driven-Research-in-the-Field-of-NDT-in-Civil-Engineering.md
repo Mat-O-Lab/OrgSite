@@ -2,7 +2,7 @@
 layout: post
 title: An Ontology-Based Approach to Enable Data-Driven Research in the Field of NDT in Civil Engineering
 subtitle: Streamlining Civil Engineering Data with Ontology
-categories: ['Civil Engineering', 'Non-Destructive Testing', 'Materials Science']
+categories: ['Civil Engineering', 'Non-Destructive Testing', 'Materials Science', 'Publication']
 tags: ['ontology engineering', 'interoperability', 'data integration', 'non-destructive testing', 'NMR relaxometry', 'materials informatics']
 ---
 

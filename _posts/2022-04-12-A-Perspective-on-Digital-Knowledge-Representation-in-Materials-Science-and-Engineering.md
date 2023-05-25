@@ -2,7 +2,7 @@
 layout: post
 title: A Perspective on Digital Knowledge Representation in Materials Science and Engineering
 subtitle: Untangling Data Complexity in Materials Science
-categories: ['Computer Science', 'Advanced Engineering Materials']
+categories: ['Computer Science', 'Advanced Engineering Materials', 'Publication']
 tags: ['data infrastructures', 'digital representations', 'knowledge graphs', 'materials informatics', 'ontologies', 'vocabulary providers']
 ---
 
