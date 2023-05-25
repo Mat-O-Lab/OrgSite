@@ -2,7 +2,7 @@
 layout: post
 title: CSVToCSVW Update
 subtitle: Major Refactor in CSVToCSVW v1.1.9
-categories: markdown
+categories: Tools
 tags: [CSVtoCSVW, Tools]
 ---
 
