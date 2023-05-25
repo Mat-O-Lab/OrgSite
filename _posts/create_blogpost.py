@@ -9,7 +9,7 @@ df.drop(index=df.index[0], axis=0, inplace=True)
 
 print(df)
 for _, row in df.iterrows():
-    print(row)
+    #print(row)
     filename = f'{row["date"].strip()}-{row["title"].strip().replace(" ", "-")}.md'
     file_path= os.path.join(os.path.dirname(__file__), filename)
     with open(file_path, 'w') as f:
