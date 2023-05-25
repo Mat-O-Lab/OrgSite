@@ -7,6 +7,16 @@ title: Home
 banner: "/assets/images/banners/home.png"
 ---
 
+# Welcome
+
+Welcome to Mat-O-Lab! Where Material Science meets Digitalization. 
+
+Our collaborative platform brings together cutting-edge projects, open-source tools, and a vibrant community of like-minded individuals passionate about leveraging material science in innovative ways.
+
+Dive into our repositories, contribute, or communicate your ideas and requirements.
+
+At Mat-O-Lab, we believe that knowledge grows through collaboration. Connect with fellow scientists, programmers, and experts in semantics. Share ideas, solve problems together, and push the boundaries of what's possible.
+
 # Github
 
 Mat-O-Lab and its content can be found at [Mat-O-Lab Github](https://github.com/Mat-O-Lab)
