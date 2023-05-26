@@ -24,8 +24,22 @@ description: "The Materials Open Laboratory, short Mat-O-Lab, is a Joint Venture
 # #   "Copyright (c) 2017-{currentYear} <a href="https://example.com">{author}</a>"
 # #   "Copyright © 2017-2021 Foobar"
 # #
-copyright: "Copyright (cleft) 2021-{currentYear} <a href='https://www.materials.fraunhofer.de'>Fraunhofer Group Materials</a> and <a href='https://www.bam.de'>Bundesanstalt für Materialforschung und -prüfung (BAM)</a>"
+copyright: "Copyright (c) 2021-{currentYear} <a href='https://www.materials.fraunhofer.de'>Fraunhofer Group Materials</a> and <a href='https://www.bam.de'>Bundesanstalt für Materialforschung und -prüfung (BAM)</a>"
 
+# Translate languges
+# langs refer to https://cloud.google.com/translate/docs/languages
+translate_langs:
+- lang: en
+  img: https://cdn.countryflags.com/thumbs/united-states-of-america/flag-400.png
+  text: English
+
+- lang: de
+  img: https://cdn.countryflags.com/thumbs/germany/flag-400.png
+  text: German
+
+- lang: fr
+  img: https://cdn.countryflags.com/thumbs/france/flag-400.png
+  text: French
 
 # baseurl: "" # the subpath of your site, e.g. /blog
 # url: "" # the base hostname & protocol for your site, e.g. https://example.com
@@ -152,6 +166,9 @@ defaults:
 
 # theme: owner/name --> Don't forget to remove/comment the gem-based theme option
 remote_theme: "jeffreytse/jekyll-theme-yat"
+
+plugins:
+  - jekyll-feed
 
 exclude:
   - "example.md"

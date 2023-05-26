@@ -21,6 +21,11 @@ At Mat-O-Lab, we believe that knowledge grows through collaboration. Connect wit
 
 Mat-O-Lab and its content can be found at [Mat-O-Lab Github](https://github.com/Mat-O-Lab)
 
+# Hosted Web Services or Demos
+
+- [MatPortal](https://matportal.org) - Vocabulary Provider for the Material Science and Engineering Domain, powered by [OntoPortal Virtual Appliance](https://ontoportal.github.io/documentation/)
+- [Omero](https://omero.matolab.org/webclient/) - Depoyment of [Omero Image Database](https://www.openmicroscopy.org/omero/) ready to serve microstructural Investigation Images for Publication 
+
 # Networking
 
 We try to actively connect to
