@@ -2,7 +2,7 @@
   <data class="u-url" href="{{ "/" | relative_url }}"></data>
 
   <div class="wrapper">
-    <div class="site-footer-inner" style="display: flex; justify-content: space-between; align-items: center;">
+    <div class="site-footer-inner">
         {%- assign currentYear = 'now' | date: "%Y" -%}
         {%- assign copyright = site.copyright
             | replace: '{currentYear}', currentYear
@@ -11,14 +11,11 @@
             | replace: '(p)', '℗'
             | replace: '(cleft)', '<span class="copyleft">&copy;</span>'
         -%}
-      <p>
-        <div>{{ copyright }}</div>
-        <div>Powered by <a title="Jekyll is a simple, blog-aware, static site generator." href="https://jekyllrb.com/">Jekyll</a> &amp; 
-          <a title="Yat, yet another theme." href="https://github.com/jeffreytse/jekyll-theme-yat">Yat Theme</a>.
-        </div>
-        <div class="footer-col rss-subscribe">Subscribe <a href="{{ "/feed.xml" | relative_url }}">via RSS</a></div>
-      </p>
-    </div>
+      <div>{{ copyright }}</div>
+      <div>Powered by <a title="Jekyll is a simple, blog-aware, static site generator." href="https://jekyllrb.com/">Jekyll</a> &amp; 
+        <a title="Yat, yet another theme." href="https://github.com/jeffreytse/jekyll-theme-yat">Yat Theme</a>.
+      </div>
+      <div class="footer-col rss-subscribe">Subscribe <a href="{{ "/feed.xml" | relative_url }}">via RSS</a></div>
     <div class="logo-container" style="display: flex; align-items: center; margin-left: auto;">
       <img src="{{ '/assets/images/logos/materials.svg' | relative_url }}" alt="Logo 1" height="50px">
       <img src="{{ '/assets/images/logos/bam.svg' | relative_url }}" alt="Logo 2" height="50px">
