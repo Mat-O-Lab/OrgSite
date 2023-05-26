@@ -24,7 +24,7 @@ description: "The Materials Open Laboratory, short Mat-O-Lab, is a Joint Venture
 # #   "Copyright (c) 2017-{currentYear} <a href="https://example.com">{author}</a>"
 # #   "Copyright © 2017-2021 Foobar"
 # #
-copyright: "Copyright (cleft) 2021-{currentYear} <a href="https://www.materials.fraunhofer.de">Fraunhofer Group Materials</a> and <a href="https://www.bam.de/">Bundesanstalt für Materialforschung und -prüfung (BAM)</a>"
+copyright: "Copyright (cleft) 2021-{currentYear} <a href='https://www.materials.fraunhofer.de'>Fraunhofer Group Materials</a> and <a href='https://www.bam.de'>Bundesanstalt für Materialforschung und -prüfung (BAM)</a>"
 
 
 # baseurl: "" # the subpath of your site, e.g. /blog
@@ -99,11 +99,11 @@ theme_highlight: fhgorange
 #   - about.md
 
 # Page default value
-# defaults:
-#   home:
-#     heading: "Materials Open Laboratory: Mat-O-Lab"
-#     subheading: "Joint Venture of Fraunhofer Materials and BAM"
-#     banner: "/assets/images/banners/home.png"
+defaults:
+  home:
+    heading: "Materials Open Laboratory: Mat-O-Lab"
+    subheading: "Joint Venture of Fraunhofer Materials and BAM"
+    banner: "/assets/images/banners/home.png"
 
 # Banner default settings
 # These banner settings are for global banner default, but you can also
