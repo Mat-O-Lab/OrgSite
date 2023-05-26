@@ -43,6 +43,7 @@ html {
         display: flex;
         align-items: center;
         border-top: solid 1px #eee;
+        padding: 10px 0; /* Add padding top and bottom */
     
         .footer-content {
           flex: 1;
@@ -53,9 +54,10 @@ html {
           align-items: center;
           justify-content: flex-end;
           padding-right: 15px;
+          margin-left: 15px; /* Add margin left for spacing between content and logos */
         }
     
-        @media (max-width: 767px) and (orientation: portrait) {
+        @media screen and (max-width: 767px) and (orientation: portrait) {
           flex-direction: column;
           text-align: center;
     
@@ -63,6 +65,7 @@ html {
             justify-content: center;
             padding-right: 0;
             margin-top: 10px;
+            margin-left: 0; /* Reset margin left */
           }
         }
       }
