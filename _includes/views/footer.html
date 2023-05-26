@@ -2,8 +2,8 @@
   <data class="u-url" href="{{ "/" | relative_url }}"></data>
 
   <div class="wrapper">
-    <div class="site-footer-inner" style="display: flex;; align-items: center;">
-      <div class="footer-content" style="flex: 1;">
+    <div class="site-footer-inner">
+      <div class="footer-content">
         {%- assign currentYear = 'now' | date: "%Y" -%}
         {%- assign copyright = site.copyright
             | replace: '{currentYear}', currentYear
@@ -18,9 +18,9 @@
         </div>
         <div class="footer-col rss-subscribe">Subscribe <a href="{{ "/feed.xml" | relative_url }}">via RSS</a></div>
       </div>
-      <div class="logo-container" style="display: flex; align-items: center; justify-content: flex-end;">
-          <img src="{{ '/assets/images/logos/materials.svg' | relative_url }}" alt="FhG Materials" height="50px" style="padding-right: 15px;">
-          <img src="{{ '/assets/images/logos/bam.svg' | relative_url }}" alt="BAM" height="50px" >
+      <div class="logo-container">
+        <img src="{{ '/assets/images/logos/materials.svg' | relative_url }}" alt="FhG Materials" height="50px">
+        <img src="{{ '/assets/images/logos/bam.svg' | relative_url }}" alt="BAM" height="50px">
       </div>
     </div>
   </div>
