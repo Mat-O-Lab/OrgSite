@@ -55,7 +55,7 @@ html {
           padding-right: 15px;
         }
     
-        @media (max-width: 767px) {
+        @include media-query($on-laptop) {
           flex-direction: column;
           text-align: center;
     
