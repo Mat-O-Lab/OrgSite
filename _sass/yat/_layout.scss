@@ -38,9 +38,17 @@ html {
     footer.site-footer {
       color: unset;
       background-color: transparent;
-
+    
       .site-footer-inner {
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
         border-top: solid 1px #eee;
+    
+        @media (max-width: 767px) {
+          flex-direction: column;
+          text-align: center;
+        }
       }
     }
   }
