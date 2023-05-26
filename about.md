@@ -36,8 +36,8 @@ Website: [www.bam.de](http://www.bam.de)
 
 #### Fraunhofer-Gesellschaft:
 {{ site.author }}  
-Section Manager for Science Communication  
-Email: Send e-mail through website contact form
+{{ site.author_position }}  
+Email: {{ site.email }}  
 
 #### BAM:
 Referat Kommunikation/Marketing  
