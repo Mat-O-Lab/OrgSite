@@ -63,7 +63,7 @@ Scharnhorststr. 34-37, 10115 Berlin
 Postal Address: 11019 Berlin  
 Phone: +49 30 2014-9  
 Fax: +49 30 2014-1070  
-Website: [www.bmwi.de](http://www.bmwi.de)
+Website: [www.bmwk.de](http://www.bmwi.de)
 
 ### Usage Rights
 All rights reserved. All copyright of this website are owned in full by the respective organizations. Permission is granted to download or print material published on these sites for personal use only. Its use for any other purpose, and in particular its commercial use or distribution, are strictly forbidden in the absence of prior written approval.
