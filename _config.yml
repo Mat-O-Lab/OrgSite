@@ -119,7 +119,8 @@ defaults:
     heading: "Materials Open Laboratory: Mat-O-Lab"
     subheading: "Joint Venture of Fraunhofer Materials and BAM"
     banner: "/assets/images/banners/home.png"
-
+  posts:
+    image: /assets/images/banners/home.png
 # Banner default settings
 # These banner settings are for global banner default, but you can also
 # config it by the front matter for one specific post
