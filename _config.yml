@@ -135,7 +135,6 @@ defaults:
       type: "posts" # Only for posts
     values: 
       banner: "/assets/images/banners/home.png"
-      image: "/assets/images/banners/home.png" # Setting default image
 # Banner default settings
 # These banner settings are for global banner default, but you can also
 # config it by the front matter for one specific post
