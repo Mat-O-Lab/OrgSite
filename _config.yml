@@ -134,7 +134,7 @@ defaults:
       path: "" # An empty string here means all files in the project
       type: "posts" # Only for posts
     values: 
-      background: "/assets/images/banners/home.png"
+      banner: "/assets/images/banners/home.png"
       image: "/assets/images/banners/home.png" # Setting default image
 # Banner default settings
 # These banner settings are for global banner default, but you can also
