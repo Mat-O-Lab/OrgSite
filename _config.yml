@@ -170,6 +170,6 @@ remote_theme: "jeffreytse/jekyll-theme-yat"
 
 plugins:
   - jekyll-feed
-
+  - jekyll-url-metadata
 exclude:
   - "example.md"
