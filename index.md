@@ -5,6 +5,8 @@
 layout: home
 title: Home
 banner: "/assets/images/banners/home.png"
+heading: "Materials Open Laboratory: Mat-O-Lab"
+subheading: "Joint Venture of Fraunhofer Materials and BAM"
 ---
 
 # Welcome
