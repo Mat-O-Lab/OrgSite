@@ -121,16 +121,14 @@ defaults:
 #     banner: "/assets/images/banners/home.png"
 #   posts:
 #     background: /assets/images/banners/home.png
-  - 
-    scope:
+  - scope:
       path: "" # An empty string here means all files in the project
       type: "home" # Only for home
     values: 
       heading: "Materials Open Laboratory: Mat-O-Lab"
       subheading: "Joint Venture of Fraunhofer Materials and BAM"
       banner: "/assets/images/banners/home.png"
-  - 
-    scope:
+  - scope:
       path: "" # An empty string here means all files in the project
       type: "posts" # Only for posts
     values: 
